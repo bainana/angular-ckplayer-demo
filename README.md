@@ -65,7 +65,7 @@ localhost：4200/ckplayer.swf 404
         "m3u8.swf",
         "style.xml"]
 ```
-### 7.重新启动服务,这里我设置了视频开始时是暂停，可根据ckplayer配置进行调整。
+#### 7.重新启动服务,这里我设置了视频开始时是暂停，可根据ckplayer配置进行调整。
 
 ```
 ng serve
