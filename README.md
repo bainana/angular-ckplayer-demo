@@ -2,11 +2,11 @@
 可直接播放rtmp、m3u8视频流，直播流。
 此文件下载后，经过测试在本地运行正常，angular版本为4.0。 ckplayer为最新版，不是6.8版本。
 
-###下面为我在编写此功能时的操作步骤，您也可以参照此步骤加入您的项目中：
+### 下面为我在编写此功能时的操作步骤，您也可以参照此步骤加入您的项目中：
 #### 1.下载ckpalyer整个包并导入
 将ckplayer放到src/assets/下
 #### 2.引入ckplayer.js
-angular2中，在angular.json中找到script,添加上ckplayer.js
+在angular.json中找到script,添加上ckplayer.js
 ```
 "scripts": ["./assets/ckplayer/ckplayer.js"]
 ```
